@@ -2,8 +2,9 @@
   "name": "4_task_telegram_bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "telegramBot.js",
   "scripts": {
+    "start": "node telegramBot.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
